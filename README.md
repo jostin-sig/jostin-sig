@@ -1,86 +1,110 @@
 
+<div align="center">
+
 #  ¡Hola! Soy Jostin
 
 ###  Estudiante de Ingeniería en Software
 
- Actualmente estudio **Ingeniería en Software en la Universidad Técnica de Ambato (UTA), Ecuador**.
+ **Universidad Técnica de Ambato | Ecuador**
 
- Me apasiona la tecnología, el desarrollo de software y aprender nuevas herramientas de programación.
+Apasionado por el desarrollo de software, la programación y las nuevas tecnologías.
 
- Mi objetivo es convertirme en un ingeniero de software profesional, desarrollando soluciones tecnológicas que ayuden a resolver problemas reales.
+[![Portafolio](https://img.shields.io/badge/_Mi_Portafolio-0078D4?style=for-the-badge)](https://jostin-sig.github.io/portafolio-web/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jostin-sig)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_jostin.23_)
+
+</div>
 
 ---
 
 ##  Sobre mí
 
--  Universidad: Universidad Técnica de Ambato
--  Carrera: Ingeniería en Software
--  País: Ecuador
--  Intereses: Desarrollo web, bases de datos y redes
--  Actualmente aprendiendo nuevas tecnologías y metodologías de desarrollo de software
--  Me gusta trabajar en equipo y participar en proyectos colaborativos
+Soy estudiante de **Ingeniería en Software** en la Universidad Técnica de Ambato (UTA).
+
+Me interesa el desarrollo de aplicaciones, la programación, las bases de datos, las redes de computadoras y el trabajo colaborativo.
+
+-  **Formación:** Ingeniería en Software - UTA.
+-  **Ubicación:** Ambato, Ecuador.
+-  **Intereses:** Desarrollo web, backend y bases de datos.
+-  **Aprendiendo:** Microservicios, .NET y nuevas tecnologías.
+-  **Colaboración:** Git, GitHub y metodologías ágiles.
+-  **Objetivo:** Convertirme en un ingeniero de software profesional.
 
 ---
 
 ##  Tecnologías y herramientas
 
-### Lenguajes de programación
-- Java
-- Python
-- JavaScript
-- HTML y CSS
-- SQL
+###  Lenguajes de programación
 
-### Bases de datos
-- PostgreSQL
-- MySQL
-### Herramientas
-- Git y GitHub
-- Visual Studio Code
-- NetBeans
-- Visual Studio
-- Postman
-- Packet Tracer
-- VirtualBox
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,cs,python,js,php,html,css&theme=dark" alt="Lenguajes de programación"/>
+</p>
 
-### Metodologías
-- Scrum
-- Metodologías ágiles
-- GitFlow
-- Control de versiones
+###  Bases de datos
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Bases de datos"/>
+</p>
+
+
+###  Herramientas de desarrollo
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,postman,docker&theme=dark" alt="Herramientas de desarrollo"/>
+</p>
+
+
+
+**Otras herramientas:** NetBeans, VirtualBox, Cisco Packet Tracer y pgAdmin.
 
 ---
 
-##  Proyectos académicos
+##  Proyectos destacados
 
-###  Desarrollo web
-Desarrollo de páginas web utilizando HTML, CSS, JavaScript y Bootstrap.
+|  Proyecto |  Descripción |  Tecnología |
+|---|---|---|
+| [Registro de calificaciones](https://github.com/jostin-sig/Registro_de_Calificaciones_de_Estudiantes) | Sistema académico para gestionar calificaciones de estudiantes. | C++ |
+| [Árboles binarios](https://github.com/jostin-sig/Recorridos_Arboles_Binarios) | Implementación de recorridos y estructuras de árboles. | Java |
+| Simulador de créditos | Aplicación basada en microservicios para simulación de créditos. | .NET, C#, SQL Server |
+| Redes de computadoras | Configuración de VLAN, DHCP y simulaciones de redes. | Cisco Packet Tracer |
+| [Portafolio web](https://github.com/jostin-sig/portafolio-web) | Sitio web personal publicado mediante GitHub Pages. | HTML, CSS |
 
-###  Bases de datos
-Diseño e implementación de bases de datos relacionales utilizando PostgreSQL y MySQL.
+---
 
-###  Programación
-Desarrollo de aplicaciones académicas utilizando Java, C++ y C#.
+##  Estadísticas de GitHub
 
-###  Redes de computadoras
-Configuración y simulación de redes utilizando Cisco Packet Tracer.
+<div align="center">
 
-###  Microservicios
-Desarrollo de aplicaciones basadas en microservicios utilizando .NET y SQL Server.
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jostin-sig&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=jostin-sig&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ##  Objetivos profesionales
 
-- Fortalecer mis habilidades de programación.
-- Aprender nuevas tecnologías.
-- Mejorar mis conocimientos de ingeniería de software.
----
-
-##  Contacto
-
-- GitHub: https://github.com/jostin-sig
-- Ecuador
+-  Fortalecer mis conocimientos en ingeniería de software.
+-  Desarrollar aplicaciones que resuelvan problemas reales.
+-  Aprender nuevas tecnologías y buenas prácticas.
+-  Participar en proyectos colaborativos.
+-  Crear soluciones tecnológicas innovadoras.
 
 ---
 
+##  Contacto y redes sociales
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jostin-sig)
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_jostin.23_)
+
+[![Portafolio](https://img.shields.io/badge/Portafolio_Web-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jostin-sig.github.io/portafolio-web/)
+
+---
+
+ **"El aprendizaje constante es la clave para crecer como desarrollador de software."**
+
+</div>
